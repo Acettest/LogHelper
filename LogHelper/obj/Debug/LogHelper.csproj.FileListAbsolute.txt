@@ -1,0 +1,9 @@
+c:\users\msheng\source\repos\LogHelper\LogHelper\bin\Debug\log4net.config
+c:\users\msheng\source\repos\LogHelper\LogHelper\bin\Debug\LogHelper.dll
+c:\users\msheng\source\repos\LogHelper\LogHelper\bin\Debug\LogHelper.pdb
+c:\users\msheng\source\repos\LogHelper\LogHelper\bin\Debug\log4net.dll
+c:\users\msheng\source\repos\LogHelper\LogHelper\bin\Debug\log4net.xml
+c:\users\msheng\source\repos\LogHelper\LogHelper\obj\Debug\LogHelper.csproj.CoreCompileInputs.cache
+c:\users\msheng\source\repos\LogHelper\LogHelper\obj\Debug\LogHelper.csproj.CopyComplete
+c:\users\msheng\source\repos\LogHelper\LogHelper\obj\Debug\LogHelper.dll
+c:\users\msheng\source\repos\LogHelper\LogHelper\obj\Debug\LogHelper.pdb
