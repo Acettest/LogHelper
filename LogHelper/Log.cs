@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 [assembly: log4net.Config.XmlConfigurator(ConfigFile = "log4net.config", Watch = true)]
 namespace LogHelper
 {
+
     //always believe that something wonderful is about to happen
+    //this project is used for logging 
+
     static public class Log
     {
         static log4net.ILog log = log4net.LogManager.GetLogger(System.Reflection.MethodBase.GetCurrentMethod().DeclaringType);
