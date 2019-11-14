@@ -9,7 +9,7 @@ namespace LogHelper
 
     //always believe that something wonderful is about to happen
     //this project is used for logging 
-
+    //hello world
     static public class Log
     {
         static log4net.ILog log = log4net.LogManager.GetLogger(System.Reflection.MethodBase.GetCurrentMethod().DeclaringType);
